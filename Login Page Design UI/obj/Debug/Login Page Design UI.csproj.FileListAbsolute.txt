@@ -1,0 +1,12 @@
+D:\AW 17\Source Code Visual Studio 19\Login Page Design UI\Login Page Design UI\bin\Debug\Login Page Design UI.exe.config
+D:\AW 17\Source Code Visual Studio 19\Login Page Design UI\Login Page Design UI\bin\Debug\Login Page Design UI.exe
+D:\AW 17\Source Code Visual Studio 19\Login Page Design UI\Login Page Design UI\bin\Debug\Login Page Design UI.pdb
+D:\AW 17\Source Code Visual Studio 19\Login Page Design UI\Login Page Design UI\bin\Debug\Guna.UI2.dll
+D:\AW 17\Source Code Visual Studio 19\Login Page Design UI\Login Page Design UI\obj\Debug\Login Page Design UI.csprojAssemblyReference.cache
+D:\AW 17\Source Code Visual Studio 19\Login Page Design UI\Login Page Design UI\obj\Debug\Login_Page_Design_UI.Form1.resources
+D:\AW 17\Source Code Visual Studio 19\Login Page Design UI\Login Page Design UI\obj\Debug\Login_Page_Design_UI.Properties.Resources.resources
+D:\AW 17\Source Code Visual Studio 19\Login Page Design UI\Login Page Design UI\obj\Debug\Login Page Design UI.csproj.GenerateResource.cache
+D:\AW 17\Source Code Visual Studio 19\Login Page Design UI\Login Page Design UI\obj\Debug\Login Page Design UI.csproj.CoreCompileInputs.cache
+D:\AW 17\Source Code Visual Studio 19\Login Page Design UI\Login Page Design UI\obj\Debug\Login Page Design UI.csproj.CopyComplete
+D:\AW 17\Source Code Visual Studio 19\Login Page Design UI\Login Page Design UI\obj\Debug\Login Page Design UI.exe
+D:\AW 17\Source Code Visual Studio 19\Login Page Design UI\Login Page Design UI\obj\Debug\Login Page Design UI.pdb
