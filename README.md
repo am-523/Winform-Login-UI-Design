@@ -2,8 +2,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/61135648/99339682-2e8d3900-28b9-11eb-9671-df722e920c5b.png" width=250></p>
 
 <h3 align="center">
-Cryptocurrency Mining Dashboard
-
+Winform Login Page Design UI
 </h3>
 
 ##  ☕
